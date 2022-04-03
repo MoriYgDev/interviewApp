@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/databaseFragment"
+        android:icon="@drawable/ic_database"
+        android:title="database" />
+    <item
+        android:id="@+id/apiFragment"
+        android:icon="@drawable/ic_api"
+        android:title="api" />
+    <item
+        android:id="@+id/serviceFragment"
+        android:icon="@drawable/ic_service"
+        android:title="service" />
+
+</menu>
